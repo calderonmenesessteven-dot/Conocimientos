@@ -1,0 +1,8 @@
+Para mi codigo utilice lenguaje de python, no logre terminar el metodo 
+ya que hace mucho no practicaba este lenguaje 
+y perdi la practica con el, debido a eso, no logre terminar 
+el codigo al 100/100, me doy cuenta que debo volver a estudiar 
+o mejor dicho repasar ya que no recuerdo mucho de este lenguaje de los trimestres anteriores.
+
+Y aprovechare esta incidencia para saber en que fallo frente 
+a los demás lenguajes y practicas que hemos visto.
